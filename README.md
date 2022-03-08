@@ -1,4 +1,4 @@
 ```
-if species == "cat && sexuality == "gay":
+if species == "cat" && sexuality == "gay":
   print( "nya" )
 ```
