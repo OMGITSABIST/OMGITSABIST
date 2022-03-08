@@ -1,4 +1,5 @@
 ```
-if species == "cat" and sexuality == "gay":
-  print( "nya" )
+if ( species == '🐈' && sexuality == '🏳️‍🌈' ) {
+  printf( "nya" );
+}
 ```
